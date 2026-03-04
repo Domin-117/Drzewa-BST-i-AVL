@@ -1,8 +1,6 @@
-# Projekt 2: Drzewa BST i AVL
+# AiSD — Projekt 2: Drzewa przeszukiwań binarnych BST i drzewa samobalansujące AVL
 
-## Opis projektu
-
-Ten projekt implementuje struktury danych drzew binarnych przeszukiwań (BST) oraz zrównoważonych drzew AVL w języku Python. Zawiera interaktywny program do manipulacji drzewami oraz skrypt benchmarkowy do porównania wydajności obu struktur.
+Ten projekt implementuje struktury danych drzew binarnych przeszukiwań (BST) oraz zrównoważonych drzew AVL w języku Python. Zawiera interaktywny program do manipulacji drzewami oraz skrypt do porównania wydajności obu struktur.
 
 ## Funkcjonalności
 
@@ -26,7 +24,7 @@ Ten projekt implementuje struktury danych drzew binarnych przeszukiwań (BST) or
 
 ## Jak uruchomić
 
-### Program interaktywny
+### Program
 ```bash
 python3 Program.py
 ```
